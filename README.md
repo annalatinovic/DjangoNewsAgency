@@ -1,4 +1,4 @@
-COMP3011 - Coursework 1
+## COMP3011 - Coursework 1
 
 This program uses a Django web framework to implement a RESTful web API for a news agency. Additionally, the program is a simple news aggregator application for collecting news from other APIs. 
 
@@ -21,5 +21,5 @@ quit
 
 After each command prompt, there will be an HTTP response message, indicating if the request was a success or not.
 
-Improvements I would like to make:
+# Improvements I would like to make:
 - Instead of using "if-else" statements for retrieving certain stories, I would use the Django filter function from the QuerySet.
