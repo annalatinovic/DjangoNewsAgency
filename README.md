@@ -17,7 +17,7 @@ news [-id=] [-cat=] [-reg=] [-date]
 delete story_key  
 logout  
 quit  
-    - terminates the command prompt  
+      - terminates the command prompt  
 
 After each command prompt, there will be an HTTP response message, indicating if the request was a success or not.  
 
