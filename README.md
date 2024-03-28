@@ -6,9 +6,9 @@ The client code is main.py.
 
 The client code will be waiting for an input from the user. 
 
-The following commands are: 
-login url
-post
+The following commands are:  
+login url  
+post  
 news [-id=] [-cat=] [-reg=] [-date]
       - [-id=] is for the id value
       - [-cat=] is for the category value, which can be the following: pol (for politics), art, tech (for technology new), or trivia (for trivial news)
