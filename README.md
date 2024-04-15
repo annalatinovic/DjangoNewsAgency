@@ -10,12 +10,16 @@ The following commands are:
 login url  
 post  
 news [-id=] [-cat=] [-reg=] [-date]  
+
       - [-id=] is for the id value  
       - [-cat=] is for the category value, which can be the following: pol (for politics), art, tech (for technology new), or trivia (for trivial news)  
       - [-reg=] is for the region value, which can be the following: uk, eu (for European news), or w (for world news)  
       - [-date=] is for thed date value, which is in the dd/mm/yyyy format  
+      
 delete story_key  
-logout  
+
+logout 
+
 quit  
       - terminates the command prompt  
 
