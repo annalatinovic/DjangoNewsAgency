@@ -8,7 +8,9 @@ The client code will be waiting for an input from the user.
 
 The following commands are:  
 login url  
+
 post  
+
 news [-id=] [-cat=] [-reg=] [-date]  
 
       - [-id=] is for the id value  
